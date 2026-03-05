@@ -1,4 +1,4 @@
-# searching_algorithms_activity
+# Searching Algorithms Activity
 A simple CSA search algorithms activity
 
 ### Tasks
